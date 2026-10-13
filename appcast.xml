@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Usage Monitor macOS arm64 (stable)</title>
+    <item>
+      <title>Usage Monitor 0.7.4</title>
+      <sparkle:version>0.7.4</sparkle:version>
+      <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 13 Oct 2026 03:37:59 GMT</pubDate>
+      <enclosure url="https://github.com/ChoseWay/UsageMonitor-macOS-releases/releases/download/v0.7.4/UsageMonitor-0.7.4-arm64-update.zip" sparkle:edSignature="5Vuu0LW78UUdJTpTkv/0RgNU2nsxJg0mXlAAuU1uOS72nOHedX+vwg6dK+STh/z+nzm9Pu1uSgxQ+fkoI8HrBA==" length="2091857" type="application/octet-stream"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: MRpsSMJbvTeQmU+Bo+SwaAlF7FfHpqA80Me13+Y5h67c1kaPPGYiH0WXt2LGKFW+vhq6W9aU+ZrtoteNnWbyAg==
+length: 1084
+-->
